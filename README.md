@@ -39,3 +39,5 @@ SeasonalPurchase: It is a weight indicator to track the seasonal purchase. If a 
 Month_ SeasonalPurchase: Month of the special day considered for seasonal purchase.
 
 The other attributes like, OS, Search Engine, Zone, Type of Traffic, Customer Type, Gender, Cookies Setting, Education, Marital Status and Weekend Purchase are self-explanatory variables
+
+placed in the top 5% in the competition
